@@ -104,7 +104,7 @@ O sistema usa o seguinte fluxo:
    - Agrupa os resultados com seus metadados como contexto
 
 3. **Resposta**:
-   - Usa uma LLM (por padrão GPT-4o) para gerar respostas baseadas no contexto
+   - Usa uma LLM (por padrão GPT-4o-mini) para gerar respostas baseadas no contexto
    - Mantém o histórico da conversa para permitir perguntas de acompanhamento
 
 ## Personalização
